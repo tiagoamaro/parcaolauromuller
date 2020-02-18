@@ -1,0 +1,19 @@
+body {
+    background-color: #3776BB;
+}
+
+.logo {
+    max-width: 400px;
+}
+
+.facebook-link a {
+    color: #FFFFFF;
+}
+
+.instagram-link {
+    margin-top: 10px;
+}
+
+.instagram-link a {
+    color: #FFFFFF;
+}
