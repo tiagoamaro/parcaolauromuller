@@ -6,6 +6,11 @@ body {
     width: 400px;
 }
 
+.thank-you {
+    color: #FFFFFF;
+    margin: 20px;
+}
+
 .facebook-link a {
     color: #FFFFFF;
 }
