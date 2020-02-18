@@ -1,5 +1,6 @@
 body {
     background-color: #3776BB;
+    color: #FFFFFF;
 }
 
 .logo {
@@ -7,8 +8,12 @@ body {
 }
 
 .thank-you {
-    color: #FFFFFF;
     margin: 20px;
+}
+
+.donations {
+    margin-top: 10px;
+    
 }
 
 .facebook-link a {
